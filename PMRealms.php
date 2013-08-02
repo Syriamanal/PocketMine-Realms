@@ -4,7 +4,7 @@
 __PocketMine Plugin__
 name=PocketMine Realms
 description=Automatic server listing on PocketMine Realms and more features.
-version=0.1
+version=0.2
 author=shoghicp
 class=PMRealms
 apiversion=9
